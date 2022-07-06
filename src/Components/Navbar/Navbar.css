@@ -7,17 +7,17 @@
   padding: 0.5rem 0 0.5rem 0;
   background: #d44780;
 }
-  
+
 .arrowback {
   color: white;
 }
-  
+
 .nav-tools {
   color: white;
   display: flex;
   padding-right: 0.4rem;
 }
-  
+
 .microphone {
   padding-right: 0.5rem;
 }
