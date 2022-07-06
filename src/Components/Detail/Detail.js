@@ -13,7 +13,7 @@ function Detail() {
   const dispatch = useDispatch();
   useEffect(() => {
     dispatch(fetchData(capital));
-  }, []);
+  }, [ ]);
   const weatherData = useSelector((state) => state.weatherData);
 
   const {
