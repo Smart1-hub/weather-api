@@ -2,7 +2,7 @@
 A weather application that displays weather updates of different capital cities.
 The weather updates is fetched from [Open Weather API](https://openweathermap.org/api).
 
-![screenshot](coming soon)
+![screenshot](./images/screenshot.png)
 
 ## Built With
 
@@ -12,7 +12,7 @@ The weather updates is fetched from [Open Weather API](https://openweathermap.or
 
 ## Live Link
 
-[Live Link](coming soon)
+[Click here](coming soon)
 
 ### Setup
 ~~~ 
