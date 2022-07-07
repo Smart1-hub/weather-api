@@ -12,7 +12,7 @@ The weather updates is fetched from [Open Weather API](https://openweathermap.or
 
 ## Live Link
 
-[Click here](coming soon)
+[Click here](https://deploy-preview-3--monumental-paletas-7ab791.netlify.app)
 
 ### Setup
 ~~~ 
