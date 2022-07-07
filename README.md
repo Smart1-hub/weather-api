@@ -1,20 +1,23 @@
 ## Weather-App
-A weather application that displays weather updates of different capital cities.
-The weather updates is fetched from [Open Weather API](https://openweathermap.org/api).
+A weather application that displays weather updates of different capital cities in Africa. The weather updates is fetched from [Open Weather API](https://openweathermap.org/api). 
 
-## Preview
-![screenshot](./images/screenshot.png)
-
-## Project Presentation
-
-- [Presentation](https://drive.google.com/file/d/1x8L418Dmo94-Zcl_GiO9QlTXD9oiZ3x7/view?usp=sharing)
+- This project was bootstraped with [Create React App](https://github.com/facebook/create-react-app)
 
 ## Built With
 
-- HTML, CSS and Javascript
+- HTML - CSS - Javascript
 - React
 - Redux
 - Github
+
+- You may also see any lint errors in the console.
+
+## Preview
+![screenshot](.src/images/screenshot.png)
+
+## In the project directory, you can run:
+
+ [Presentation](https://drive.google.com/file/d/1x8L418Dmo94-Zcl_GiO9QlTXD9oiZ3x7/view?usp=sharing)
 
 ## Live Link
 
@@ -34,7 +37,10 @@ npm install
 ```
 npm start
 ```
-
+- run test
+```
+npm test
+```
 ## Environment Prerequisites
 
 Web Browser
@@ -53,7 +59,7 @@ Code editor: Vscode or any other code editor
 
 ## Acknowledgement
 
-- Original design idea is by Nelson Sakwa in Behance.
+- Original design idea is by Nelson Sakwa in [Behance](https://www.behance.net/gallery/31579789/Ballhead-App-(Free-PSDs))
 
 ## Contributing
 
