@@ -2,10 +2,16 @@
 A weather application that displays weather updates of different capital cities.
 The weather updates is fetched from [Open Weather API](https://openweathermap.org/api).
 
+## Preview
 ![screenshot](./images/screenshot.png)
+
+## Project Presentation
+
+- [Presentation](https://drive.google.com/file/d/1x8L418Dmo94-Zcl_GiO9QlTXD9oiZ3x7/view?usp=sharing)
 
 ## Built With
 
+- HTML, CSS and Javascript
 - React
 - Redux
 - Github
