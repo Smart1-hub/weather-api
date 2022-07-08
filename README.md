@@ -13,7 +13,7 @@ A weather application that displays weather updates of different capital cities 
 - You may also see any lint errors in the console.
 
 ## Preview
-![screenshot](.src/images/screenshot.png)
+<img src="./src/images/demo-gif.gif" alt="app-demo"/>
 
 ## In the project directory, you can run:
 
