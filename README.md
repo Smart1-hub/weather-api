@@ -17,7 +17,7 @@ A weather application that displays weather updates of different capital cities 
 
 ## In the project directory, you can run:
 
- [Presentation](https://drive.google.com/file/d/1x8L418Dmo94-Zcl_GiO9QlTXD9oiZ3x7/view?usp=sharing)
+ [Presentation](https://drive.google.com/file/d/1gZmaaKX9WP74QxNw_a7PjeTdfEfvZI8P/view?usp=sharing)
 
 ## Live Link
 
@@ -59,6 +59,8 @@ Code editor: Vscode or any other code editor
 
 ## Acknowledgement
 
+- You can also learn more in the [Create React App](https://facebook.github.io/create-react-app/docs/getting-started)
+
 - Original design idea is by Nelson Sakwa in [Behance](https://www.behance.net/gallery/31579789/Ballhead-App-(Free-PSDs))
 
 ## Contributing
@@ -68,7 +70,6 @@ Contributions, issues, and feature requests are welcome!
 ## Show your support
 
 Give a ⭐ if you like this project and how it is built!
-
 
 ## 📝 License
 
